@@ -38,6 +38,3 @@ For the body movement confirmation method and handing over the object, we first 
 
 ## Conclusion
 The findings from this study aim to improve Human-Robot Interaction by identifying effective confirmation methods that enhance user experience during the retrieval of objects by robots.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
